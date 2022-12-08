@@ -1,0 +1,15 @@
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\bin\Debug\net6.0\HW_1.exe
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\bin\Debug\net6.0\HW_1.deps.json
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\bin\Debug\net6.0\HW_1.runtimeconfig.json
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\bin\Debug\net6.0\HW_1.dll
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\bin\Debug\net6.0\HW_1.pdb
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.csproj.AssemblyReference.cache
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfoInputs.cache
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfo.cs
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.dll
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\refint\HW_1.dll
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.pdb
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\HW_1.genruntimeconfig.cache
+D:\Рабочий стол\git_education\Cs-HomeWork\HW_1\obj\Debug\net6.0\ref\HW_1.dll
