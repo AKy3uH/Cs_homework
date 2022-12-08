@@ -18,21 +18,37 @@
 //     Console.Write("число " + b + " меньшее");
 // }
 
-Console.WriteLine("Введите 3 числа: ");
-int a = int.Parse(Console.ReadLine());
-int b = int.Parse(Console.ReadLine());
-int c = int.Parse(Console.ReadLine());
-int max = a;
-// if (a == b | b == c | a == c)
+
+
+// Console.WriteLine("Введите 3 числа: ");
+// int a = int.Parse(Console.ReadLine());
+// int b = int.Parse(Console.ReadLine());
+// int c = int.Parse(Console.ReadLine());
+// int max = a;
+// // if (a == b | b == c | a == c)
+// // {
+// //     Console.Write("Вы ввели равные числа");
+// // }
+// if (b > max)
 // {
-//     Console.Write("Вы ввели равные числа");
+//     max = b;
 // }
-if (b > max)
+// if (c > max)
+// {
+//     max = c;
+// }
+// Console.WriteLine("число " + max + " наибольшее");
+
+
+
+Console.WriteLine("Введите число:");
+int a = int.Parse(Console.ReadLine());
+a = a % 2;
+if (a == 0)
 {
-    max = b;
+    Console.WriteLine("Вы ввели чётное число");
 }
-if (c > max)
+else
 {
-    max = c;
+    Console.WriteLine("Вы ввели НЕчётное число");
 }
-Console.WriteLine("число " + max + " наибольшее");
